@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I will say two. 1. Can be amazingly dumb at times and 2.can binge-watch and complete an anime in 1 day straight**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
