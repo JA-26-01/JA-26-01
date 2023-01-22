@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesmine</h1>
 <h3 align="center">A hardworking individual, who loves creativity and in always on the run-on to find new things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ja-26-01" alt="ja-26-01" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS and React**
 
