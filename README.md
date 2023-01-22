@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **iamjesmine.2001@gmail.com**
 
-- ⚡ Fun fact **I will say two. 1. Can be amazingly dumb at times and 2.can binge-watch and complete an anime in 1 day straight**
+- ⚡ Fun fact **I will say two.
+                <br> 1. Can be amazingly dumb at times and
+                <br> 2.can binge-watch and complete an anime in 1 day straight**
 
 <p align="left">
 </p>
