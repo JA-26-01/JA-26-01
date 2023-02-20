@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node JS and React**
 
-- 📫 How to reach me **iamjesmine.2001@gmail.com**
+- 📫 How to reach me **jesmineakhter.work@gmail.com**
 
 - ⚡ Fun fact **I will say two.
                 <br> 1. Can be amazingly dumb at times and
