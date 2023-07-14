@@ -2,7 +2,7 @@
 <h3 align="center">A hardworking individual, who loves creativity and in always on the run-on to find new things</h3>
 
 
-- 🌱 I’m currently learning **Node JS and React**
+- 🌱 I’m currently learning **Flutter and SpringBoot**
 
 - 📫 How to reach me **jesmineakhter.work@gmail.com**
 
