@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesmine</h1>
-<h3 align="center">A hardworking individual, who loves creativity and in always on the run-on to find new things</h3>
+<h3 align="center">I dwelve in creativity and in always on the run-on to find new things</h3>
 
 
 - 🌱 I’m currently learning **Flask and SpringBoot**
